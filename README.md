@@ -9,7 +9,7 @@ So far I have watched this entire video:
 
 📋 **Parts list:** see [BOM.md](BOM.md) for everything I ordered to build it.
 
-And here are my notes I took during that video:
+And here are my personal notes:
 
 📄 **[Full handwritten notes (PDF)](notes/How-Do-Computers-Work-notes.pdf)** — click to view all 32 pages.
 
