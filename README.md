@@ -14,4 +14,4 @@ And here are my personal notes:
 📄 **[Full handwritten notes (PDF)](notes/How-Do-Computers-Work-notes.pdf)** — click to view all 32 pages.
 
 Current Progress:
-I finished the clock module and starting the registers soon. 
+I finished the clock module and starting the registers soon. I will update the github as I do more! 
