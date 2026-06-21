@@ -67,12 +67,12 @@ will vary. Sources: DigiKey, Mouser, Amazon.
 
 ---
 
-### Order summary
+### Order summary (parts only — excludes shipping & tax)
 
-| Order | Notes | Total |
-|-------|-------|------:|
-| DigiKey PO 99666781 | 11 logic/memory IC lines | $167.44 (incl. shipping + tax) |
+| Order | Notes | Parts total |
+|-------|-------|------------:|
+| DigiKey PO 99666781 | 11 logic/memory IC lines | $115.53 |
 | Mouser EMAIL99666781 | 2× AS6C62256 SRAM | $27.54 |
-| Amazon (June 2026) | breadboards, kits, switches, programmer, passives | ~$134+ |
+| Amazon (June 2026) | breadboards, kits, switches, programmer, passives | see items above |
 
 _Resistors and a few other small passives not yet listed — will add as the build proceeds._
