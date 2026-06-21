@@ -7,6 +7,8 @@ So far I have watched this entire video:
 > **How do computers work? (from scratch, no prior knowledge needed)** — Milen Patel · 11:54:41
 > *(click the thumbnail to watch on YouTube)*
 
+📋 **Parts list:** see [BOM.md](BOM.md) for everything I ordered to build it.
+
 And here are my notes I took during that video:
 
 <!-- Paste your notes below. A few examples of formatting you can use:
