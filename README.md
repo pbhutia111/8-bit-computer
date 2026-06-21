@@ -1,28 +1,24 @@
 # 8-Bit Computer
 
-A homemade 8-bit computer built from scratch to learn how a CPU actually works — clock,
-registers, ALU, RAM, bus, and control logic all wired up by hand.
+So far I have watched this entire video:
 
-🚧 **Work in progress.** I'll add the schematics, code, notes, and photos here as the build
-comes together.
+[![How do computers work? (from scratch, no prior knowledge needed)](https://img.youtube.com/vi/rl0jkP9kOMw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rl0jkP9kOMw)
 
-## Planned modules
+> **How do computers work? (from scratch, no prior knowledge needed)** — Milen Patel · 11:54:41
+> *(click the thumbnail to watch on YouTube)*
 
-- **Clock** — adjustable + single-step for debugging
-- **Registers** — A and B registers on the shared bus
-- **ALU** — 8-bit add / subtract
-- **RAM** — memory + memory address register
-- **Program counter**
-- **Bus** — common 8-bit data bus tying it all together
-- **Control logic** — instruction decoding and microcode
-- **Output** — display for the result
+And here are my notes I took during that video:
 
-## Coming soon
+<!-- Paste your notes below. A few examples of formatting you can use:
 
-- Schematics / wiring diagrams
-- Microcode + control signals
-- Build notes and photos
+## Logic gates
+- NAND is the universal gate — every other gate can be built from it
+- ...
 
-## Author
+## Full adder
+- Adds two bits plus a carry-in, produces a sum and carry-out
+- ...
 
-**Palden Bhutia** ([@pbhutia111](https://github.com/pbhutia111))
+-->
+
+_Notes coming soon._
