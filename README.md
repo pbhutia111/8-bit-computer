@@ -11,6 +11,10 @@ So far I have watched this entire video:
 
 And here are my notes I took during that video:
 
+📄 **[Full handwritten notes (PDF)](notes/How-Do-Computers-Work-notes.pdf)** — click to view all 32 pages.
+
+A typed-up version of those notes follows below.
+
 ---
 
 ## Contents
